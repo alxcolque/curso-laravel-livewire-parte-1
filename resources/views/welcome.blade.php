@@ -42,6 +42,12 @@
         <div>
             @livewire('parte2.event')
         </div>
+        <hr>
+        <div>
+            <h1>Conectar con la base de datos</h1>
+            <br>
+            @livewire('parte3.list-post')
+        </div>
     @livewireScripts
     </body>
 </html>
